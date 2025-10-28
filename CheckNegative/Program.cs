@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             IEnumerable<int> numbers = new List<int>() { 1, 2, 3, -4, 5, -6, 7, -8, 9, -10 };
-            bool containsNegative = ContainsNegative(numbers);
+            bool containsNegative = ContainsNegative2(numbers);
             Console.WriteLine(containsNegative);
         }
         public static bool ContainsNegative(IEnumerable<int> enumerator)
