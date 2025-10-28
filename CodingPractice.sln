@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNegative", "CheckNegative\CheckNegative.csproj", "{D68C5ED2-05C5-476C-B4C9-0F9072E59540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68C5ED2-05C5-476C-B4C9-0F9072E59540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68C5ED2-05C5-476C-B4C9-0F9072E59540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68C5ED2-05C5-476C-B4C9-0F9072E59540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68C5ED2-05C5-476C-B4C9-0F9072E59540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B979D923-F85E-4638-8DF0-A4AD80EF9EEF}
+	EndGlobalSection
+EndGlobal
